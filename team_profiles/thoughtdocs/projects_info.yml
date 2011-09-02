@@ -1,0 +1,9 @@
+--- 
+projectA:
+  :vcs_url: git@github.com/kailuowang/thoughtdocs.git
+  :vcs_type: git
+  :local_path: ~/Projects/thoughtdocs
+projectB:
+  :vcs_url: git@github.com/kailuowang/thoughtdocsLib.git
+  :vcs_type: git
+  :local_path: ~/Projects/thoughtdocsLib

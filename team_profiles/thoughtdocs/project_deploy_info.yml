@@ -1,0 +1,13 @@
+  ---
+  :general:
+    :type: :binary
+  :project_specifics:
+    
+    projectA:
+      :type: :remote
+      :remote_location: ~/webdev/projects/thoughtdocs/component-parent-pom
+    projectB:
+      :binary_file_path:
+        - ${m2_repository}/thoughtdocs/thoughtdocs/3.4.0-thoughtdocs-SNAPSHOT/thoughtdocs-3.4.0-thoughtdocs-SNAPSHOT.jar
+        - ${m2_repository}/thoughtdocs/thoughtdocs/3.4.0-thoughtdocs-SNAPSHOT/thoughtdocs-3.4.0-thoughtdocs-SNAPSHOT.jar
+ 

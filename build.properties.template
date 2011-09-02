@@ -1,0 +1,8 @@
+profile=thoughtdocs
+default_vcs_type=git
+username=wangk
+server=github.com
+project_root_on_sandbox=~/projects/thoughtdocs
+sandbox_lib_path=~/projects/thoughtdocs/target/thoughtdocs_4_2010-SNAPSHOT/WEB-INF/lib
+restart_script_path=~/projects/thoughtdocs/scripts/restart.sh
+m2_repository=~/.m2/repository
